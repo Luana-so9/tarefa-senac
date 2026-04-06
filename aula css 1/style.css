@@ -1,0 +1,57 @@
+main img{
+    width: 300px;
+    height: 300px;
+}
+
+body{
+    background-color: rgb(255, 196, 196);
+}
+
+header{
+    background-color: rgb(35, 153, 231);
+    justify-self:center;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+main{
+    background-color: white;
+}
+
+nav{
+    background-color: #e2e2e2;
+    padding: 1vh;
+    word-spacing: 10px;
+    text-align:center;
+
+}
+
+main{
+    padding: 15px;
+    justify-self:center;
+    border-radius:15px;
+
+}
+
+footer{
+
+    text-align:center;
+    }
+
+
+.main-login{
+    margin-top: 15%;
+    padding: 15px;
+    box-shadow: 10px 10px;
+}
+
+.main-login img{
+    height: 30px;
+    width: 150px;
+}
+
+button{
+    width: 100%;
+}
