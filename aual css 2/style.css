@@ -1,0 +1,104 @@
+.card{
+
+    background-color: rgb(0, 0, 0);
+    width: 350px;
+    padding: 10px;
+    border:1px solid
+    text align-center
+}
+.card{
+    color: white;
+    background-color: rgb(254, 252, 255);
+    padding: spx;
+    border-radius:5px;
+}
+
+.card p{
+    color: black;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card img{
+    width: 100%;
+    color: #000000;
+}
+
+
+ header{
+    background-color: cornsilk;
+    
+    
+ }
+
+ h1{
+color: #524a4a;
+ }
+
+ header{
+    justify-self: center;
+    text-align: center;
+    width: 100%;
+ }
+
+ nav{
+    justify-self: center;
+    text-align:center ;
+    background-color:#ffffff;
+    width: 100%;
+    padding-bottom: 5px;
+    padding-top: 1px;
+ }
+
+ body{
+    background-color:#853953
+ }
+
+ a {
+    color: #000000;
+ }
+ h2{
+    color: #2C2C2C;
+ }
+a{
+    color: #000000;
+}
+
+.cardnefi{
+    width:500px;
+}
+
+.cardnefi{
+width:500px;
+}
+
+p{
+    justify-self: center;
+    text-align: center;
+}
+ 
+footer{
+    text-justify: center;
+    text-align: center;
+}
+
+main div{
+    justify-self: center;
+    text-align:center;
+
+}
+
+.Titulo{
+    justify-self: center;
+    text-align: center;
+}
+ 
+
+footer{
+    background-color: #ffffff;
+}
