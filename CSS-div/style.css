@@ -1,0 +1,83 @@
+.topo{
+    display: flex;
+    flex-wrap;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-between;
+    justify-self: center;
+}
+header{
+    background-color: #FFB399;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+
+nav{
+background-color: rgb(109, 109, 109);
+justify-content: center;
+text-align: center;
+display: flex;
+}
+
+.quadradao{
+    background-color: antiquewhite;
+    padding: 15px;
+    width: 70%;
+    justify-self: center;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.card{
+    background-color: azure;
+    width: 22%;
+    border-radius: 10px;
+    padding:10px;
+}
+
+.cardarea{
+   
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.titulo
+{
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    padding:0% 100px;
+}
+footer{
+    
+    display: flex;
+    width:100%;
+    background-color: gray;
+    justify-content:center;
+    justify-self: center;
+    color: white;
+    margin-top: 15px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+nav a  {
+    color: aliceblue;
+    padding: 1%;
+    
+}
+
+body{
+    background-color: aliceblue;
+    margin:0;
+}
+.quadradao{
+    border-radius: 15px;
+}
